@@ -41,7 +41,7 @@ When the potentiometer wiper is turned fully clockwise (minimum resistance, the 
 
 # **Circuit**
 
-![][image1]
+![circuit](circuit.png)
 
 &nbsp;
 
